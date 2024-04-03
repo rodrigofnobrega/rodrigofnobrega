@@ -1,5 +1,5 @@
 # Hey, bem vindo ao meu perfil!
-- :bowtie: Eu sou o @rodrigofnobrega, estudante de desenvolvimento back-end em Java.
+- :bowtie: Eu sou o `@rodrigofnobrega`, estudante de desenvolvimento back-end com Java e Spring Boot 3.
 - 📚: Atualmente estou cursando o 3º período em Tecnologia da Informação (Bacharelado) na UFRN/Natal.
 
 ## Alguns dos meus conhecimentos
