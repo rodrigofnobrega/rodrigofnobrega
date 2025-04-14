@@ -1,7 +1,7 @@
 # Olá, bem vindo ao meu perfil!
-- 😀: Me chamo Rodrigo Nóbrega e estou cursando o 4° período do Bacharelado em Tecnologia da Informação pela <a href="https://www.ufrn.br/">UFRN</a> - <a href="https://www.metropoledigital.ufrn.br/portal/">IMD</a>.
+- 😀: Me chamo Rodrigo Nóbrega e estou cursando o 5° período do Bacharelado em Tecnologia da Informação pela <a href="https://www.ufrn.br/">UFRN</a> - <a href="https://www.metropoledigital.ufrn.br/portal/">IMD</a>.
 - 📚: Atualmente estudando para desenvolvimento FullStack.
-- 💻: Interessado em desenvolvimento web, blockchain e linux.
+- 💻: Interessado em desenvolvimento web, blockchain, segurança e linux.
 
 # Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ferreira-da-nóbrega-509116305/)
